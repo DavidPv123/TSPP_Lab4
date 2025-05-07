@@ -1,0 +1,14 @@
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\bin\Debug\net8.0\TSPP_Lab4.exe
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\bin\Debug\net8.0\TSPP_Lab4.deps.json
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\bin\Debug\net8.0\TSPP_Lab4.runtimeconfig.json
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\bin\Debug\net8.0\TSPP_Lab4.dll
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\bin\Debug\net8.0\TSPP_Lab4.pdb
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.AssemblyInfoInputs.cache
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.AssemblyInfo.cs
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.dll
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\refint\TSPP_Lab4.dll
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.pdb
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\TSPP_Lab4.genruntimeconfig.cache
+C:\Users\igorp\source\repos\TSPP_Lab4\TSPP_Lab4\obj\Debug\net8.0\ref\TSPP_Lab4.dll
